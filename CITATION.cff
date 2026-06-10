@@ -1,0 +1,52 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the original paper."
+title: "CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer"
+type: software
+authors:
+  - family-names: Liu
+    given-names: Minghao
+repository-code: "https://github.com/StaryMoon/CogVideoX-Unofficial"
+license: MIT
+preferred-citation:
+  type: article
+  title: "CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer"
+  authors:
+    - family-names: Yang
+      given-names: Zhuoyi
+    - family-names: Teng
+      given-names: Jiayan
+    - family-names: Zheng
+      given-names: Wendi
+    - family-names: Ding
+      given-names: Ming
+    - family-names: Huang
+      given-names: Shiyu
+    - family-names: Xu
+      given-names: Jiazheng
+    - family-names: Yang
+      given-names: Yuanming
+    - family-names: Hong
+      given-names: Wenyi
+    - family-names: Zhang
+      given-names: Xiaohan
+    - family-names: Feng
+      given-names: Guanyu
+    - family-names: Yin
+      given-names: Da
+    - family-names: Zhang
+      given-names: Yuxuan
+    - family-names: Wang
+      given-names: Weihan
+    - family-names: Cheng
+      given-names: Yean
+    - family-names: Xu
+      given-names: Bin
+    - family-names: Gu
+      given-names: Xiaotao
+    - family-names: Dong
+      given-names: Yuxiao
+    - family-names: Tang
+      given-names: Jie
+  journal: "arXiv preprint arXiv:2408.06072"
+  year: 2024
+  url: "https://arxiv.org/abs/2408.06072"
